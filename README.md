@@ -72,11 +72,16 @@ nano pom.xml
 ````
 ![Corriendo nano](./images/nano.png)
 
-  1. Modificar 7018 por 2018 y presionar 'ctrl-x'. Hasta abajo saldra un mensaje sobre si realizar los cambios.
-  ![Modificando en nano](./images/nanoMod.png)
+4. Modificar 7018 por 2018 y presionar 'ctrl-x'. Hasta abajo saldra un mensaje sobre si realizar los cambios.
 
-  2. Presionar 'Y' y saldrá un mensaje sobre el nombre el nombre del archivo, presionar 'Enter'
-  ![Aceptando en nano](./images/nanoEnter.png)
+![Modificando en nano](./images/nanoMod.png)
+
+5. Presionar 'Y' y saldrá un mensaje sobre el nombre el nombre del archivo, presionar 'Enter'
+
+![Aceptando en nano](./images/nanoEnter.png)
+
+6. Realizar los mismos pasos del punto 1.ii. para subir los cambios al repositorios
+
 
  ---Emiliano Sotomayor (uboat46)--- 
 
