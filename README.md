@@ -36,18 +36,24 @@ git clone <URL QUE ACABA DE SER COPIADO>
     1. Bajar el archivo [pom.xml](./resources/pom.xml) y agregarlo al repositorio
     2. Una vez que el [pom.xml](./resources/pom.xml) esté en el repositorio teclear lo siguiente en una terminal
 
-    Aquí checaremos que se ha creado un cambio en el repositorio
+    Checamos que se ha creado un cambio en el repositorio
     ````
     git status
     ````
     ![Cambio en repositorio](./images/gitStatus.png)
 
-    Aquí añadiremos los cambios a nuestro repositorio
+    Añadimos los cambios a nuestro repositorio
     ````
     git add .
     git commit -m "added pom.xml"
     ````
     ![Commit en repositorio](./images/gitCommit.png)
+
+    Subimos los cambios a nuestro repositorio
+    ````
+    git push
+    ````
+    ![Push en repositorio](./images/gitPush.png)
 
  ---Emiliano Sotomayor (uboat46)--- 
 
