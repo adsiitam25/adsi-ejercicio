@@ -5,7 +5,7 @@
 ## Instrucciones
 > Indice
 
-- [Creando y Clonando un repositorio](#Crear_y_Clonar_un_repositorio)
+- [Creando y Clonando un repositorio](#crear_y_clonar_un_repositorio)
 
 ### Crear_y_Clonar_un_repositorio
 
