@@ -33,7 +33,7 @@ git clone <URL QUE ACABA DE SER COPIADO>
 ### Crear_y_Resolver_un_Merge_Conflict
 
 1. Añadir un archivo dónde crear el merge conflict
-  1. Bajar el archivo [pom.xml](./resources/pom.xml) y agregarlo al repositorio
+    1. Bajar el archivo [pom.xml](./resources/pom.xml) y agregarlo al repositorio
 
  ---Emiliano Sotomayor (uboat46)--- 
 
