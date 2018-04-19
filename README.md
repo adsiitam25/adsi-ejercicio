@@ -34,6 +34,13 @@ git clone <URL QUE ACABA DE SER COPIADO>
 
 1. Añadir un archivo dónde crear el merge conflict
     1. Bajar el archivo [pom.xml](./resources/pom.xml) y agregarlo al repositorio
+    2. Una vez que el [pom.xml](./resources/pom.xml) esté en el repositorio teclear lo siguiente en una terminal
+
+    Aquí checaremos que se ha creado un cambio en el repositorio
+    ````
+    git status
+    ````
+    ![Cambio en repositorio](./images/gitStatus.png)
 
  ---Emiliano Sotomayor (uboat46)--- 
 
