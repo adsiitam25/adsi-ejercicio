@@ -80,8 +80,48 @@ nano pom.xml
 
 ![Aceptando en nano](./images/nanoEnter.png)
 
-6. Realizar los mismos pasos del punto 1.ii. para subir los cambios al repositorios
+6. Realizar los mismos pasos del punto 1.ii. para subir los cambios al repositorio
 
+7. Moverse al primer directorio que clonamos
+
+````
+cd ..
+cd ..
+cd <NOMBRE DEL DIRECTORIO>
+````
+
+![Cambiando directorio](./images/cdcd.png)
+
+8. Modificar el pom.xml de la misma manera que realizamos en el paso 3, solo que cambiar la fecha por algo distitno a lo que agregamos en el punto 3
+
+9. Intentar subir los cambios como visto en el paso 1, al momento de llegar a
+````
+git push
+````
+saldrá el siguiente mensaje de error
+
+![Error de Push](./images/gitError.png)
+
+10. Realizamos
+
+````
+git pull
+````
+saldrá el siguiente mensaje de error
+
+![Error de Push](./images/gitPullE.png)
+
+11. Entramos a modificar el archivo con cualquier editor que prefieran
+
+![Error de header](./images/headerError.png)
+
+12. Corregimos el archivo por la fecha que más adecuada creamos
+
+![Resuelto el merge](./images/mergeResolve.png)
+
+13. Volvemos a hacer todos los pasos para subir nuestros cambios.
+
+14. [X] Resolver un merge conflict 
 
  ---Emiliano Sotomayor (uboat46)--- 
 
