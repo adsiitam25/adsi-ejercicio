@@ -65,6 +65,19 @@ git clone <URL DEL REPOSITORIO>
 ````
 ![Clonando en otra carpeta](./images/gitReClone.png)
 
+3. Modificamos pom.xml en persona2
+
+````
+nano pom.xml
+````
+![Corriendo nano](./images/nano.png)
+
+  1. Modificar 7018 por 2018 y presionar 'ctrl-x'. Hasta abajo saldra un mensaje sobre si realizar los cambios.
+  ![Modificando en nano](./images/nanoMod.png)
+
+  2. Presionar 'Y' y saldrá un mensaje sobre el nombre el nombre del archivo, presionar 'Enter'
+  ![Aceptando en nano](./images/nanoEnter.png)
+
  ---Emiliano Sotomayor (uboat46)--- 
 
 
