@@ -21,6 +21,14 @@
 
 ![Copiando url de descarga](./images/copyRepo.png)
 
+3. Desde una terminal teclear.
+
+````
+git clone <URL QUE ACABA DE SER COPIADO>
+````
+
+![Clonando repositorio](./images/gitClone.png)
+
  ---Emiliano Sotomayor (uboat46)--- 
 
 
