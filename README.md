@@ -7,6 +7,7 @@
 
 - [Creando y Clonando un repositorio](#crear_y_clonar_un_repositorio)
 - [Creando y resolviendo un merge conflict](#crear_y_resolver_un_merge_conflict)
+- [Creando un Proyecto Maven](#crear_un_proyecto_maven)
 
 ### Crear_y_Clonar_un_repositorio
 
@@ -122,6 +123,22 @@ saldrá el siguiente mensaje de error
 13. Volvemos a hacer todos los pasos para subir nuestros cambios.
 
 14. [X] Resolver un merge conflict 
+
+
+### Crear_un_Proyecto_Maven
+
+#### Creando la estructura del proyecto
+
+1. En el repositorio desde una terminal teclear
+
+````
+mkdir -p src/main/java/mx/com/itam/adsi/ejercicio/
+mkdir -p src/main/resources
+mkdir -p src/test/java/mx/com/itam/adsi/ejercicio/
+mkdir -p src/test/resources
+````
+
+![Mkdir de paquetes](./images/mkdir.png)
 
  ---Emiliano Sotomayor (uboat46)--- 
 
