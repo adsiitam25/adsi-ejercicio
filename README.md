@@ -42,6 +42,13 @@ git clone <URL QUE ACABA DE SER COPIADO>
     ````
     ![Cambio en repositorio](./images/gitStatus.png)
 
+    Aquí añadiremos los cambios a nuestro repositorio
+    ````
+    git add .
+    git commit -m "added pom.xml"
+    ````
+    ![Commit en repositorio](./images/gitCommit.png)
+
  ---Emiliano Sotomayor (uboat46)--- 
 
 
