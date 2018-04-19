@@ -6,6 +6,7 @@
 > Indice
 
 - [Creando y Clonando un repositorio](#crear_y_clonar_un_repositorio)
+- [Creando y resolviendo un merge conflict](#crear_y_resolver_un_merge_conflict)
 
 ### Crear_y_Clonar_un_repositorio
 
@@ -28,6 +29,11 @@ git clone <URL QUE ACABA DE SER COPIADO>
 ````
 
 ![Clonando repositorio](./images/gitClone.png)
+
+### Crear_y_Resolver_un_Merge_Conflict
+
+1. Añadir un archivo dónde crear el merge conflict
+  1. Bajar el archivo [pom.xml](./resources/pom.xml) y agregarlo al repositorio
 
  ---Emiliano Sotomayor (uboat46)--- 
 
