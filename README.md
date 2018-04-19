@@ -14,6 +14,10 @@
 
 ![Configurando Repositorio](./images/createRepo.png)
 
+3. Una vez creado el repositorio, copiar el url del mismo encontrado la parte derecha bajo "Clone or download" 
+
+![Copiando url de descarga](./images/copyRepo.png)
+
  ---Emiliano Sotomayor (uboat46)--- 
 
 
