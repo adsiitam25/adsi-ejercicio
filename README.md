@@ -5,9 +5,9 @@
 ## Instrucciones
 > Indice
 
-- [Creando y Clonando un repositorio](###Crear y Clonar un repositorio)
+- [Creando y Clonando un repositorio](###Crear_y_Clonar_un_repositorio)
 
-### Crear y Clonar un repositorio
+### Crear_y_Clonar_un_repositorio
 
 1. Desde github, una vez loggeado, en la parte superior derecha dar click a "New Repository"
 
