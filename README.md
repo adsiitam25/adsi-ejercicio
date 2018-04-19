@@ -53,7 +53,17 @@ git clone <URL QUE ACABA DE SER COPIADO>
     ````
     git push
     ````
-    ![Push en repositorio](./images/gitPush.png)
+    ![Subiendo en repositorio](./images/gitPush.png)
+
+2. Salimos del repositorio y volvemos a clonarlo en otra carpeta para empezar a crear el merge conflict
+
+````
+cd ..
+mkdir persona2
+cd persona2
+git clone <URL DEL REPOSITORIO>
+````
+![Clonando en otra carpeta](./images/gitReClone.png)
 
  ---Emiliano Sotomayor (uboat46)--- 
 
