@@ -140,6 +140,14 @@ mkdir -p src/test/resources
 
 ![Mkdir de paquetes](./images/mkdir.png)
 
+2. Teclear lo siguiente para crear nuestra clase java
+
+````
+touch src/main/java/mx/com/itam/adsi/ejercicio/Principal.java
+````
+
+![Creando la clase](./images/touch.png)
+
  ---Emiliano Sotomayor (uboat46)--- 
 
 
