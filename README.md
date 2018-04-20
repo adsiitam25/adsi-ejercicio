@@ -167,6 +167,29 @@ java -jar target/ejercicio-1.0-SNAPSHOT.jar
 ![Probando el jar](./images/javaJar.png)
 
 
+7. Teclear lo siguiente para crear nuestra clase test, y usando cualquier editor codificar la clase java a utilizar
+
+````
+touch src/test/java/mx/com/itam/adsi/ejercicio/testPrincipal.java
+````
+8. Hacer los pasos para subir los archivos al repositorio (git add, commit, push)
+
+9. Probar maven tecleando los sisguientes comandos en la terminal
+
+````
+mvn test
+````
+10. Agregar los archivos mandados en xml por el profesor a el directorio en /.m2/
+
+11. Correr 
+
+````
+mvn deploy
+mvn site
+````
+
+
+
 
  ---Emiliano Sotomayor (uboat46)--- 
 
