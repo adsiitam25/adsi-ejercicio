@@ -146,9 +146,26 @@ mkdir -p src/test/resources
 touch src/main/java/mx/com/itam/adsi/ejercicio/Principal.java
 ````
 3. Hacer los pasos para subir los archivos al repositorio (git add, commit, push)
+
 ![Creando la clase](./images/touch.png)
 
-4. Agregar los siguientes [archivos](./resources/) a ./main/resources/
+4. Agregar los siguientes [archivos](./resources/resources/) a ./main/resources/
+
+5. Probar maven tecleando los sisguientes comandos en la terminal
+
+````
+mvn package
+````
+![Probando maven](./images/mavenPackage.png)
+
+6. Se creara un directorio target, probar nuestro archivo .jar recientemente creado con
+
+````
+java -jar target/ejercicio-1.0-SNAPSHOT.jar
+````
+
+![Probando el jar](./images/javaJar.png)
+
 
 
  ---Emiliano Sotomayor (uboat46)--- 
