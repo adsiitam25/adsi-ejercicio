@@ -156,7 +156,7 @@ touch src/main/java/mx/com/itam/adsi/ejercicio/Principal.java
 ````
 mvn package
 ````
-![Probando maven](./images/mavenPackage.png)
+![Probando maven](./images/mvnPackage.png)
 
 6. Se creara un directorio target, probar nuestro archivo .jar recientemente creado con
 
