@@ -140,13 +140,16 @@ mkdir -p src/test/resources
 
 ![Mkdir de paquetes](./images/mkdir.png)
 
-2. Teclear lo siguiente para crear nuestra clase java
+2. Teclear lo siguiente para crear nuestra clase java, y usando cualquier editor codificar la clase java a utilizar
 
 ````
 touch src/main/java/mx/com/itam/adsi/ejercicio/Principal.java
 ````
-
+3. Hacer los pasos para subir los archivos al repositorio (git add, commit, push)
 ![Creando la clase](./images/touch.png)
+
+4. Agregar los siguientes [archivos](./resources/) a ./main/resources/
+
 
  ---Emiliano Sotomayor (uboat46)--- 
 
